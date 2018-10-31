@@ -8,7 +8,7 @@ title: About Long Haul
 	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt="">
 	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
 	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
-	<h2>Habilidades</h2>
+	<h3>Habilidades</h3>
 	<ul>
 		<li>Html, css e javascript</li>
   		<li>PHP, MySQL</li>
@@ -20,7 +20,7 @@ title: About Long Haul
 		<li>Entrega Continua: Vagrant, Ansible, Jenkins, Docker e Kubernetes</li>
   		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
   	</ul>
-	<h2>Projetos</h2>
+	<h4>Projetos</h4>
 	<ul>
 		<li>Mapa de Links</li>
 		<li>Mensagem de rede</li>
