@@ -15,8 +15,8 @@ title: About Long Haul
 		<li>Python</li>
 		<li>ShellScript</li>
   		<li>Frameworks: Bootstrap, Foundation, AngularJS e Codeigniter</li>
-		<li>Controle de versionametno: Git e GitLab</li>
-		<li>Wordpress</li>
+		<li>Controle de versionamento: Git e GitLab</li>
+		<li>Gerenciador de Conteúdo: Wordpress</li>
 		<li>Entrega Continua: Vagrant, Ansible, Jenkins, Docker e Kubernetes</li>
   		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
   	</ul>
