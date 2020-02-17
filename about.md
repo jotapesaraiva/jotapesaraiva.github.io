@@ -6,7 +6,7 @@ title: Sobre mim
 <div class="post">
 	<h1 class="pageTitle">Sobre mim</h1>
 	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt="">
-	<p class="intro">Meu nome é João Paulo de Lima Saraiva, sou de Belém/Pa e atualmente trabalho com analista de Produção, além de gostar muito de infraestrutura de rede e programação frontend.</p>
+	<p class="intro">Meu nome é João Paulo de Lima Saraiva, sou de Belém/Pa e atualmente trabalho com Analista de Sistema, além de gostar muito de infraestrutura de rede e programação frontend.</p>
 	<p>Cursei Engenharia da computação no IESAM, com pós em rede de computadores na UNAMA. Possuo certificação em ITIL Foundation. Nos ultimos anos venho me aprofundando em ambientes Linux com enfase em ferramentas open source DevOps, por necessidade aprendim algumas liguagem de programação e frameworks e apartir desse blog pretendo compartilhar meus projetos, estudos, ideias, boas práticas do dia a dia.</p>
 	<h4>Habilidades</h4>
 	<ul>
